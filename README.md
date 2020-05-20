@@ -1,6 +1,6 @@
 ## Paint Game
 
- Vanlilla JS의 canvas 객체를 사용해 페이지의 고유 (x,y)값을 path 하여 그림을 그리는 웹 어플리케이션
+ HTML canvas와 Vanlilla JS를 이용한 그림판 Web application
  
 ### 목차
 
